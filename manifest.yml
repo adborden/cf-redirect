@@ -1,0 +1,6 @@
+---
+memory: 64MB
+name: cf-redirect
+host: redirect-from-domain.example.com
+env:
+  TARGET_DOMAIN: redirect-to-domain.example.com
